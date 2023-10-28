@@ -183,11 +183,12 @@ th {
     </div>
   </div>
   <div class="card">
-    <img src="imagen/imagen6.gif" class="card-img-top" alt="...">
+    
     <div class="card-body">
       <h5 class="card-title">Mision</h5>
       <p class="card-text">Nuestra misión es proporcionar a T Consulting, S.A. un sistema de gestión de nómina de vanguardia que permita una administración eficiente de los recursos humanos y financieros. Nos comprometemos a desarrollar un software robusto y amigable que simplifique las tareas relacionadas con la nómina y promueva la toma de decisiones informadas, garantizando al mismo tiempo la seguridad y la confidencialidad de los datos.</p>
-      <p class="card-text"><small class="text-body-secondary"></small></p>
+     <img src="imagen/imagen6.gif" class="card-img-top" alt="...">
+        <p class="card-text"><small class="text-body-secondary"></small></p>
     </div>
   </div>
   <div class="card">
